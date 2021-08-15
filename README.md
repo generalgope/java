@@ -12,10 +12,17 @@ All of the `.java` files need to be compiled first, follow the steps given below
 
 ## Dependencies:
 
-### Java Runtime Environment 
+### 1/2 Java Runtime Environment 
 
 - Install for Ubuntu/Debian
 ``` 
     sudo apt-get update 
     sudo apt install default-jre
+```
+
+### 2/2 Java Development Kit
+
+- Install for Ubuntu/Debian
+```
+    sudo apt install default-jdk
 ```
