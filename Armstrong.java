@@ -18,7 +18,6 @@ class Armstrong {
 		while(temp > 0) {
 			digit = temp % 10;
 			temp /= 10;
-			System.out.println(temp);
 			sum += Math.pow(digit, count);
 		}
 		
