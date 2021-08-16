@@ -10,7 +10,6 @@ class Factorial {
 		
 		for (int i = num; i > 0; i--) { 
 			factorial = factorial * i;
-			System.out.println(factorial + " " + i);
 		}
 		
 		System.out.println("Factorial of " + num + " is " + factorial);
