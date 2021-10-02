@@ -4,7 +4,7 @@ All of the `.java` files need to be compiled first, follow the steps given below
 
 ## Table of Contents:
 **[How to Run Programs](#Program-Execution)<br>**
-**[Introduction/Basics](#Introduction/Basics)<br>**
+**[Introduction/Basics](#Introduction-Basics)<br>**
 **[Control Statements]<br>**
 **[Arrays]<br>**
 **[Objects]<br>**
