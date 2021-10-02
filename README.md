@@ -46,9 +46,10 @@ Java is a high-level, object-oriented, class-based, secure, robust and platform 
 
 ### Naming Conventions
 
-| Indetifier | Naming Rule |  Example  |
+| Indentifier | Naming Rule |  Example  |
 |------------|-------------|-----------|
-| Class      | Must be a noun (person, place or thing). Avoid acronyms while keeping the name simple yet descriptive | class Bank; <br> class RapMusic; |
+| Class      | Must be a noun (person, place or thing). Firs letter of each word is capitalized. Avoid acronyms while keeping the name simple yet descriptive | class Bank; <br> class RapMusic; |
+|
 
 ### Java variables 
 
