@@ -40,7 +40,7 @@ All of the `.java` files need to be compiled first, follow the steps given below
     sudo apt install default-jdk
 ```
 
-## Introduction/Basics
+## Introduction to Java
 
 Java is a high-level, object-oriented, class-based, secure, robust and platform indpendent language.
 
