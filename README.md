@@ -3,7 +3,7 @@
 All of the `.java` files need to be compiled first, follow the steps given below:
 
 ## Table of Contents:
-**[How to run programs](#Program-Execution)<br>**
+**[How to Run Programs](#Program-Execution)<br>**
 **[Introduction/Basics](#Introduction/Basics)<br>**
 **[Control Statements]<br>**
 **[Arrays]<br>**
@@ -39,3 +39,10 @@ All of the `.java` files need to be compiled first, follow the steps given below
 ```
     sudo apt install default-jdk
 ```
+
+## Introduction/Basics
+
+Java is a high-level, object-oriented, class-based, secure, robust and platform indpendent language.
+
+### Java variables 
+
