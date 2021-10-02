@@ -48,8 +48,8 @@ Java is a high-level, object-oriented, class-based, secure, robust and platform 
 
 | Indentifier | Naming Rule |  Example  |
 |------------|-------------|-----------|
-| Class      | Must be a noun (person, place or thing). Firs letter of each word is capitalized. Avoid acronyms while keeping the name simple yet descriptive | class Bank; <br> class RapMusic; |
-|
+| Class/Interface | Must be a noun (person, place or thing). First letter of each word is capitalized. Avoid acronyms while keeping the name simple yet descriptive | class Bank; <br> class RapMusic; |
+| Method     | Must be a verb (action or state of being). First letter is lowercase with first letter of each following word capitalized | getBalance(); <br> shoot(); <br> drive();
 
 ### Java variables 
 
