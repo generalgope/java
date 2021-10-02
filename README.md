@@ -48,4 +48,4 @@ Java is a high-level, object-oriented, class-based, secure, robust and platform 
 
 **- local -** cannot be used outside of a method, cannot be defined as `static` <br>
 **- instance -** declared inside the body of a class but outside of methods, cannot be defined as `static`, since it is different for each istance (object) of the class <br>
-**- static -** is associated with the class, cannot be used with objects since it is only allocated memory once <br>
+**- static -** is associated with the class, cannot be used with objects since it is allocated memory only once <br>
