@@ -2,7 +2,19 @@
 
 All of the `.java` files need to be compiled first, follow the steps given below:
 
-## Program Execution :
+## Table of Contents:
+[Introduction/Basics](#Introduction/Basics)
+[Control Statements]
+[Arrays]
+[Objects]
+[Inheritance]
+[Polymorphism]
+[Abstraction]
+[Exception Handling]
+[Multithreading]
+[File Handling]
+
+## Program Execution:
 
 1. Compile a java program using:
 `javac filename.java`
