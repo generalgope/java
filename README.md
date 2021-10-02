@@ -5,6 +5,8 @@ All of the `.java` files need to be compiled first, follow the steps given below
 ## Table of Contents:
 **[How to Run Programs](#Program-Execution)<br>**
 **[Basics of Java](#Introduction-to-Java)<br>**
+        **[- Conventions](#Conventions)<br>**
+        **[- Variables](#Variables)<br>**
 **[Control Statements]<br>**
 **[Arrays]<br>**
 **[Objects]<br>**
