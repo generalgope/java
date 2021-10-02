@@ -44,6 +44,12 @@ All of the `.java` files need to be compiled first, follow the steps given below
 
 Java is a high-level, object-oriented, class-based, secure, robust and platform indpendent language.
 
+### Naming Conventions
+
+| Indetifier | Naming Rule |  Example  |
+|------------|-------------|-----------|
+| Class      | Must be a noun (person, place or thing). Avoid acronyms while keeping the name simple yet descriptive | class Bank; <br> class RapMusic; |
+
 ### Java variables 
 
 **- local -** cannot be used outside of a method, cannot be defined as `static` <br>
