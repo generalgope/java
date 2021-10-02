@@ -53,8 +53,8 @@ Java is a high-level, object-oriented, class-based, secure, robust and platform 
 |Variables   | Variable name should indicate the intent of its use. Uses mixed case with a lowercase first letter. <br> Should not start with underscore _ or dollar sign $ even though it's allowed.<br>One character names should only be used for temporary variables. Use i - n for integers and c - e for characters | int n; <br> char c, d, e; <br> double height; |
 | Constants  | Contant variable names should be all uppercase with words separated by underscores | final double GRAVITY; <br> static final int CUTOFF; <br> static final int MIN_BALANCE; |
 
-### Java variables 
+### Java Variables 
 
 **- local -** cannot be used outside of a method, cannot be defined as `static` <br>
-**- instance -** declared inside the body of a class but outside of methods, cannot be defined as `static`, since it is different for each istance (object) of the class <br>
+**- instance -** declared inside the body of a class but outside of methods, cannot be defined as `static`, since it is different for each instance (object) of the class <br>
 **- static -** is associated with the class, cannot be used with objects since it is allocated memory only once <br>
