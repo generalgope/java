@@ -1,7 +1,5 @@
 # Object-Oriented Programming with Java 
 
-All of the `.java` files need to be compiled first, follow the steps given below:
-
 ## Table of Contents:
 **[How to Run Programs](#Program-Execution)<br>**
 **[Basics of Java](#Introduction-to-Java)<br>**
@@ -16,6 +14,8 @@ All of the `.java` files need to be compiled first, follow the steps given below
 **[File Handling]<br>**
 
 ## Program Execution:
+
+All of the `.java` files need to be compiled first, follow the steps given below:
 
 1. Compile a java program using:
 `javac filename.java`
