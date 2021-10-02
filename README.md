@@ -1,4 +1,4 @@
-# Object-Oriented Programming with Java 
+# Object-Oriented Programming with Java&#x2122;
 
 ## Table of Contents:
 **[How to Run Programs](#Program-Execution)<br>**
