@@ -1,3 +1,5 @@
+/* Print "Fizz" is n is a multiple of 3, if it is a multiple of 5 then print "Buzz", if it is a multiple of both 3 and 5, print "FizzBuzz" */
+
 class FizzBuzz {
 	public static void main(String[] args) {
 		String answer;
