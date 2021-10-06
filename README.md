@@ -5,6 +5,7 @@
 **[Basics of Java](#Introduction-to-Java)<br>**
 **[Control Statements]<br>**
 **[Arrays]<br>**
+**[Methods]<br>**
 **[Objects]<br>**
 **[Inheritance]<br>**
 **[Polymorphism]<br>**
