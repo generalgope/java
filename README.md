@@ -57,6 +57,6 @@ Java is a high-level, object-oriented, class-based, secure, robust and platform 
 
 ### Java Variables 
 
-**- local -** cannot be used outside of a method, cannot be defined as `static` <br>
-**- instance -** declared inside the body of a class but outside of methods, cannot be defined as `static`, since it is different for each instance (object) of the class <br>
-**- static -** is associated with the class, cannot be used with objects since it is allocated memory only once <br>
+**1. local -** cannot be used outside of a method, cannot be defined as `static` <br>
+**2. instance -** declared inside the body of a class but outside of methods, cannot be defined as `static`, since it is different for each instance (object) of the class <br>
+**3. static -** is associated with the class, cannot be used with objects since it is allocated memory only once <br>
