@@ -1,4 +1,4 @@
-class CmdOps {
+class CommandLineArithmetic {
 	public static void main (String args[]) {
 		int i, sum = 0;
 		double doubleSum, avg;
