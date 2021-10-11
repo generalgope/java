@@ -27,6 +27,11 @@ All of the `.java` files need to be compiled first, follow the steps given below
 
 ## Dependencies:
 
+Included `install.sh` script will automatically install all required dependencies
+```
+    ./install.sh
+```
+
 ### 1/2 Java Runtime Environment 
 
 - Install for Ubuntu/Debian
